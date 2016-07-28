@@ -6,7 +6,6 @@
 
 
 
-###### Machine learning engineer and apply predictive models to massive data sets in fields like education, finance, healthcare or robotics.
 
 #### Project 1: Predicting Boston Housing Prices
 
