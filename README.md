@@ -1,7 +1,7 @@
 # Machine Learning Nanodegree
 ## Make Predictive Models
 
-[[https://github.com/SinghGauravKumar/Udacity-Capstone-Animal-Shelter/blob/master/certificate.PNG|alt=certificate]]
+https://github.com/SinghGauravKumar/Udacity-Capstone-Animal-Shelter/blob/master/certificate.PNG|alt=certificate
 
 
 ###### Machine learning engineer and apply predictive models to massive data sets in fields like education, finance, healthcare or robotics.
