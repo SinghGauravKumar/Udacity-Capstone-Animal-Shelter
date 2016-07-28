@@ -63,7 +63,7 @@ Using reinforcement learning to train a smart cab how to drive
 
 #### Project 5: Capstone Project
 
-Predict The Next Pitch
+Predict outcomes of the animals at the Austin Animal Care
 
 - Python
 - Pandas
